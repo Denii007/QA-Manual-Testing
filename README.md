@@ -1,4 +1,7 @@
 # QA Manual Testing Portfolio
+## Application Under Test
+Internal web application used for QA practice and functional testing.
+URL: https://belajar-bareng.onrenderer.com
 
 This repository contains QA manual testing artifacts:
 - Test Plan
